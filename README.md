@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=F75C7E&center=true&repeat=false&width=435&lines=Greetings+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=F75C7E&center=true&repeat=false&width=435&lines=Hello+%F0%9F%98%8E+I'm+a.." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -45,6 +45,9 @@
 
 <div align="center">
   <br/>
-  <p>‼️ jumpscare warning 😦‼️</p>
-  <img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
+  <details>
+    <summary>‼️Click for a surprise (jumpscare warning😦😦😦)‼️</summary>
+        <img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/><br/>
+        boo
+    </details>
 </div>
