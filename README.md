@@ -34,6 +34,7 @@
 
 ## 🛠️ Projects
 
+<a href="https://github.com/asce-dev/trimmr" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asce-dev&repo=trimmr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="trimmr"></a>
 <a href="https://github.com/asce-dev/space-tourism-website" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asce-dev&repo=space-tourism-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="space-tourism-webstite"></a>
 <a href="https://github.com/asce-dev/typing-speed-test" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asce-dev&repo=typing-speed-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
 
